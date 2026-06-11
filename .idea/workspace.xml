@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79331180-163c-4f84-bf8f-8d4a7f07c668" name="변경" comment="feat: 환경 변수 관리와 공통 타입 유틸 추가">
-      <change beforePath="$PROJECT_DIR$/src/infrastructure/network/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/errors/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/guards/error.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/guards/error.guard.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/guards/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/guards/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/types/async-state.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/types/async-state.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/types/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/types/index.ts" afterDir="false" />
+    <list default="true" id="79331180-163c-4f84-bf8f-8d4a7f07c668" name="변경" comment="feat: 공통 에러 타입과 error boundary 추가">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +98,7 @@
       <workItem from="1780561225067" duration="984000" />
       <workItem from="1780567728010" duration="601000" />
       <workItem from="1781083982058" duration="1355000" />
-      <workItem from="1781088907577" duration="10020000" />
+      <workItem from="1781088907577" duration="12382000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 프로젝트 폴더 구조 및 Biome 세팅">
       <option name="closed" value="true" />
@@ -121,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781189222347</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: 공통 에러 타입과 error boundary 추가">
+      <option name="closed" value="true" />
+      <created>1781195539102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781195539102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: 프로젝트 폴더 구조 및 Biome 세팅" />
     <MESSAGE value="feat: 환경 변수 관리와 공통 타입 유틸 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 환경 변수 관리와 공통 타입 유틸 추가" />
+    <MESSAGE value="feat: 공통 에러 타입과 error boundary 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 공통 에러 타입과 error boundary 추가" />
   </component>
 </project>
