@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79331180-163c-4f84-bf8f-8d4a7f07c668" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    <list default="true" id="79331180-163c-4f84-bf8f-8d4a7f07c668" name="변경" comment="chore: 프로젝트 폴더 구조 및 Biome 세팅">
+      <change beforePath="$PROJECT_DIR$/src/shared/guards/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/types/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +99,17 @@
       <workItem from="1780561225067" duration="984000" />
       <workItem from="1780567728010" duration="601000" />
       <workItem from="1781083982058" duration="1355000" />
-      <workItem from="1781088907577" duration="8135000" />
+      <workItem from="1781088907577" duration="9108000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: 프로젝트 폴더 구조 및 Biome 세팅">
+      <option name="closed" value="true" />
+      <created>1781177918430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781177918430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,5 +128,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: 프로젝트 폴더 구조 및 Biome 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: 프로젝트 폴더 구조 및 Biome 세팅" />
   </component>
 </project>
