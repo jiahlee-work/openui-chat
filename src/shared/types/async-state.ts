@@ -1,4 +1,4 @@
-export type AppError = Error;
+import type { AppError } from "@shared/errors";
 
 export type IdleState = {
   status: "idle";

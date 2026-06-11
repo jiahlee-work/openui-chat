@@ -1,0 +1,12 @@
+export const ERROR_CODE = {
+  UNKNOWN: "UNKNOWN",
+  NETWORK: "NETWORK",
+  TIMEOUT: "TIMEOUT",
+  UNAUTHORIZED: "UNAUTHORIZED",
+  FORBIDDEN: "FORBIDDEN",
+  NOT_FOUND: "NOT_FOUND",
+  SERVER: "SERVER",
+  VALIDATION: "VALIDATION",
+} as const;
+
+export type ErrorCode = (typeof ERROR_CODE)[keyof typeof ERROR_CODE];

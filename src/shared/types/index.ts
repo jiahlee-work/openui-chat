@@ -1,5 +1,4 @@
 export type {
-  AppError,
   AsyncState,
   ErrorState,
   IdleState,

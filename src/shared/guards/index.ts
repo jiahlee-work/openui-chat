@@ -1,1 +1,1 @@
-export { hasErrorMessage, isError } from "./error.guard";
+export { hasErrorMessage, isAbortError, isAppError, isError } from "./error.guard";
